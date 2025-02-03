@@ -1,4 +1,6 @@
-## Hi there 👋
+# Siemanko
+
+![Slajd1](https://github.com/user-attachments/assets/2e3a5bf3-5eda-4b24-8b98-d131860abcfb)
 
 <!--
 **PawelPiatkowski1311/PawelPiatkowski1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
